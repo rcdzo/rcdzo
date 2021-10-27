@@ -42,4 +42,6 @@
     <a href="mailto:rcdzo@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </div>
 
-##
+<div>
+    <img src="https://github.com/rcdzo/rcdzo/raw/output/github-contribution-grid-snake.svg">
+</div>
