@@ -11,10 +11,10 @@
       <h2></h2>
         <div>
             <a target="_blank" href="https://github.com/rcdzo" style="text-decoration:none">
-                <img height="170em"
+                <img height="150em"
                     src="https://github-readme-stats.vercel.app/api?username=rcdzo&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"
                     style="max-width: 100%;" />
-                <img height="170em"
+                <img height="150em"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcdzo&layout=compact&theme=midnight-purple"
                     style="max-width: 100%;">
             </a>
