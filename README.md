@@ -9,14 +9,14 @@
             </ul>
         </div>
         <h2></h2>
-        <div align="center">
+        <div>
             <a target="_blank" href="https://github.com/rcdzo" style="text-decoration:none">
                 <img height="170em"
                     src="https://github-readme-stats.vercel.app/api?username=rcdzo&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"
                     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcdzo&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
                     style="max-width: 100%;">
                 <img height="170em"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcdzo&layout=compact&theme=midnight-purple"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcdzo&layout=compact&theme=midnight-purple&"
                     data-canonical-src="https://github-readme-stats.vercel.app/api?username=rcdzo&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
                     style="max-width: 100%;">
             </a>
